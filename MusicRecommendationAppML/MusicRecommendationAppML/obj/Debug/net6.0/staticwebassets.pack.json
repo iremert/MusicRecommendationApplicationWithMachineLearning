@@ -1,0 +1,913 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\MusicRecommendationAppML.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MusicRecommendationAppML.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\Source\\Magnific-Popup-master.zip",
+      "PackagePath": "staticwebassets\\music2\\Source\\Magnific-Popup-master.zip"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\Source\\OwlCarousel2-2.3.4.zip",
+      "PackagePath": "staticwebassets\\music2\\Source\\OwlCarousel2-2.3.4.zip"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\Source\\SlickNav-master.zip",
+      "PackagePath": "staticwebassets\\music2\\Source\\SlickNav-master.zip"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\Source\\barfiller-master.zip",
+      "PackagePath": "staticwebassets\\music2\\Source\\barfiller-master.zip"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\Source\\bootstrap-4.2.1-dist.zip",
+      "PackagePath": "staticwebassets\\music2\\Source\\bootstrap-4.2.1-dist.zip"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\Source\\font-awesome-4.7.0.zip",
+      "PackagePath": "staticwebassets\\music2\\Source\\font-awesome-4.7.0.zip"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\Source\\jPlayer-2.9.2.zip",
+      "PackagePath": "staticwebassets\\music2\\Source\\jPlayer-2.9.2.zip"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\Source\\jQuery.countdown-master.zip",
+      "PackagePath": "staticwebassets\\music2\\Source\\jQuery.countdown-master.zip"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\Source\\jquery.nicescroll-master.zip",
+      "PackagePath": "staticwebassets\\music2\\Source\\jquery.nicescroll-master.zip"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\Source\\photo credits.txt",
+      "PackagePath": "staticwebassets\\music2\\Source\\photo credits.txt"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\about.html",
+      "PackagePath": "staticwebassets\\music2\\about.html"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\blog-details.html",
+      "PackagePath": "staticwebassets\\music2\\blog-details.html"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\blog.html",
+      "PackagePath": "staticwebassets\\music2\\blog.html"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\contact.html",
+      "PackagePath": "staticwebassets\\music2\\contact.html"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\css\\barfiller.css",
+      "PackagePath": "staticwebassets\\music2\\css\\barfiller.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\music2\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\music2\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\music2\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\css\\nowfont.css",
+      "PackagePath": "staticwebassets\\music2\\css\\nowfont.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\music2\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\css\\rockville.css",
+      "PackagePath": "staticwebassets\\music2\\css\\rockville.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\css\\slicknav.min.css",
+      "PackagePath": "staticwebassets\\music2\\css\\slicknav.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\css\\style.css",
+      "PackagePath": "staticwebassets\\music2\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\discography.html",
+      "PackagePath": "staticwebassets\\music2\\discography.html"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\music2\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\fonts\\Now-Black.woff",
+      "PackagePath": "staticwebassets\\music2\\fonts\\Now-Black.woff"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\fonts\\Now-Bold.woff",
+      "PackagePath": "staticwebassets\\music2\\fonts\\Now-Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\fonts\\Now-Light.woff",
+      "PackagePath": "staticwebassets\\music2\\fonts\\Now-Light.woff"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\fonts\\Now-Medium.woff",
+      "PackagePath": "staticwebassets\\music2\\fonts\\Now-Medium.woff"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\fonts\\Now-Regular.woff",
+      "PackagePath": "staticwebassets\\music2\\fonts\\Now-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\fonts\\Now-Thin.woff",
+      "PackagePath": "staticwebassets\\music2\\fonts\\Now-Thin.woff"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\fonts\\Rockville Solid.woff",
+      "PackagePath": "staticwebassets\\music2\\fonts\\Rockville Solid.woff"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\music2\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\music2\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\music2\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\music2\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\music2\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\img\\Background.jpg",
+      "PackagePath": "staticwebassets\\music2\\img\\Background.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\img\\about\\about.png",
+      "PackagePath": "staticwebassets\\music2\\img\\about\\about.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\img\\about\\ap-1.jpg",
+      "PackagePath": "staticwebassets\\music2\\img\\about\\ap-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\img\\about\\ap-2.jpg",
+      "PackagePath": "staticwebassets\\music2\\img\\about\\ap-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\img\\about\\ap-3.jpg",
+      "PackagePath": "staticwebassets\\music2\\img\\about\\ap-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\img\\about\\ap-4.jpg",
+      "PackagePath": "staticwebassets\\music2\\img\\about\\ap-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\img\\about\\ap-5.jpg",
+      "PackagePath": "staticwebassets\\music2\\img\\about\\ap-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\img\\about\\ap-6.jpg",
+      "PackagePath": "staticwebassets\\music2\\img\\about\\ap-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\img\\about\\ap-7.jpg",
+      "PackagePath": "staticwebassets\\music2\\img\\about\\ap-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\img\\about\\signature.png",
+      "PackagePath": "staticwebassets\\music2\\img\\about\\signature.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\img\\blog\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\music2\\img\\blog\\blog-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\img\\blog\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\music2\\img\\blog\\blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\img\\blog\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\music2\\img\\blog\\blog-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\img\\blog\\blog-4.jpg",
+      "PackagePath": "staticwebassets\\music2\\img\\blog\\blog-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\img\\blog\\blog-5.jpg",
+      "PackagePath": "staticwebassets\\music2\\img\\blog\\blog-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\img\\blog\\blog-6.jpg",
+      "PackagePath": "staticwebassets\\music2\\img\\blog\\blog-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\img\\blog\\br-1.jpg",
+      "PackagePath": "staticwebassets\\music2\\img\\blog\\br-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\img\\blog\\br-2.jpg",
+      "PackagePath": "staticwebassets\\music2\\img\\blog\\br-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\img\\blog\\br-3.jpg",
+      "PackagePath": "staticwebassets\\music2\\img\\blog\\br-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\img\\blog\\br-4.jpg",
+      "PackagePath": "staticwebassets\\music2\\img\\blog\\br-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\img\\blog\\details\\blog-change.jpg",
+      "PackagePath": "staticwebassets\\music2\\img\\blog\\details\\blog-change.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\img\\blog\\details\\bs-1.jpg",
+      "PackagePath": "staticwebassets\\music2\\img\\blog\\details\\bs-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\img\\blog\\details\\bs-2.jpg",
+      "PackagePath": "staticwebassets\\music2\\img\\blog\\details\\bs-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\img\\blog\\details\\bs-3.jpg",
+      "PackagePath": "staticwebassets\\music2\\img\\blog\\details\\bs-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\img\\blog\\details\\details-pic.jpg",
+      "PackagePath": "staticwebassets\\music2\\img\\blog\\details\\details-pic.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\img\\blog\\large-item.jpg",
+      "PackagePath": "staticwebassets\\music2\\img\\blog\\large-item.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\img\\countdown-bg.jpg",
+      "PackagePath": "staticwebassets\\music2\\img\\countdown-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\img\\discography\\disco-1.jpg",
+      "PackagePath": "staticwebassets\\music2\\img\\discography\\disco-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\img\\discography\\disco-2.jpg",
+      "PackagePath": "staticwebassets\\music2\\img\\discography\\disco-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\img\\discography\\disco-3.jpg",
+      "PackagePath": "staticwebassets\\music2\\img\\discography\\disco-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\img\\discography\\disco-4.jpg",
+      "PackagePath": "staticwebassets\\music2\\img\\discography\\disco-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\img\\discography\\disco-5.jpg",
+      "PackagePath": "staticwebassets\\music2\\img\\discography\\disco-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\img\\discography\\disco-6.jpg",
+      "PackagePath": "staticwebassets\\music2\\img\\discography\\disco-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\img\\discography\\link-1.jpg",
+      "PackagePath": "staticwebassets\\music2\\img\\discography\\link-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\img\\discography\\link-2.jpg",
+      "PackagePath": "staticwebassets\\music2\\img\\discography\\link-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\img\\events\\event-1.jpg",
+      "PackagePath": "staticwebassets\\music2\\img\\events\\event-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\img\\events\\event-2.jpg",
+      "PackagePath": "staticwebassets\\music2\\img\\events\\event-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\img\\events\\event-3.jpg",
+      "PackagePath": "staticwebassets\\music2\\img\\events\\event-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\img\\events\\retro.jpg",
+      "PackagePath": "staticwebassets\\music2\\img\\events\\retro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\img\\footer-bg.png",
+      "PackagePath": "staticwebassets\\music2\\img\\footer-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\img\\hero-bg.png",
+      "PackagePath": "staticwebassets\\music2\\img\\hero-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\img\\logo.png",
+      "PackagePath": "staticwebassets\\music2\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\img\\pause.png",
+      "PackagePath": "staticwebassets\\music2\\img\\pause.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\img\\play-default.png",
+      "PackagePath": "staticwebassets\\music2\\img\\play-default.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\img\\play.png",
+      "PackagePath": "staticwebassets\\music2\\img\\play.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\img\\retro.jpg",
+      "PackagePath": "staticwebassets\\music2\\img\\retro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\img\\services\\as-1.jpg",
+      "PackagePath": "staticwebassets\\music2\\img\\services\\as-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\img\\services\\as-2.jpg",
+      "PackagePath": "staticwebassets\\music2\\img\\services\\as-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\img\\services\\as-3.jpg",
+      "PackagePath": "staticwebassets\\music2\\img\\services\\as-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\img\\services\\as-icon-1.png",
+      "PackagePath": "staticwebassets\\music2\\img\\services\\as-icon-1.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\img\\services\\as-icon-2.png",
+      "PackagePath": "staticwebassets\\music2\\img\\services\\as-icon-2.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\img\\services\\as-icon-3.png",
+      "PackagePath": "staticwebassets\\music2\\img\\services\\as-icon-3.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\img\\services\\service-1.png",
+      "PackagePath": "staticwebassets\\music2\\img\\services\\service-1.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\img\\services\\service-2.png",
+      "PackagePath": "staticwebassets\\music2\\img\\services\\service-2.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\img\\services\\service-3.png",
+      "PackagePath": "staticwebassets\\music2\\img\\services\\service-3.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\img\\services\\service-4.png",
+      "PackagePath": "staticwebassets\\music2\\img\\services\\service-4.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\img\\services\\service-left.jpg",
+      "PackagePath": "staticwebassets\\music2\\img\\services\\service-left.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\img\\skill-video.jpg",
+      "PackagePath": "staticwebassets\\music2\\img\\skill-video.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\img\\tours\\tour-1.jpg",
+      "PackagePath": "staticwebassets\\music2\\img\\tours\\tour-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\img\\tours\\tour-2.jpg",
+      "PackagePath": "staticwebassets\\music2\\img\\tours\\tour-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\img\\tours\\tour-3.jpg",
+      "PackagePath": "staticwebassets\\music2\\img\\tours\\tour-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\img\\track-right.jpg",
+      "PackagePath": "staticwebassets\\music2\\img\\track-right.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\img\\videos\\large-item.jpg",
+      "PackagePath": "staticwebassets\\music2\\img\\videos\\large-item.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\img\\videos\\videos-1.jpg",
+      "PackagePath": "staticwebassets\\music2\\img\\videos\\videos-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\img\\videos\\videos-2.jpg",
+      "PackagePath": "staticwebassets\\music2\\img\\videos\\videos-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\img\\videos\\videos-3.jpg",
+      "PackagePath": "staticwebassets\\music2\\img\\videos\\videos-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\img\\videos\\videos-4.jpg",
+      "PackagePath": "staticwebassets\\music2\\img\\videos\\videos-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\img\\volume.png",
+      "PackagePath": "staticwebassets\\music2\\img\\volume.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\img\\youtube\\youtube-1.jpg",
+      "PackagePath": "staticwebassets\\music2\\img\\youtube\\youtube-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\img\\youtube\\youtube-2.jpg",
+      "PackagePath": "staticwebassets\\music2\\img\\youtube\\youtube-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\img\\youtube\\youtube-3.jpg",
+      "PackagePath": "staticwebassets\\music2\\img\\youtube\\youtube-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\index.html",
+      "PackagePath": "staticwebassets\\music2\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\music2\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\js\\jplayerInit.js",
+      "PackagePath": "staticwebassets\\music2\\js\\jplayerInit.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\music2\\js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\js\\jquery.barfiller.js",
+      "PackagePath": "staticwebassets\\music2\\js\\jquery.barfiller.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\js\\jquery.countdown.min.js",
+      "PackagePath": "staticwebassets\\music2\\js\\jquery.countdown.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\js\\jquery.jplayer.min.js",
+      "PackagePath": "staticwebassets\\music2\\js\\jquery.jplayer.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\music2\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\js\\jquery.nicescroll.min.js",
+      "PackagePath": "staticwebassets\\music2\\js\\jquery.nicescroll.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\js\\jquery.slicknav.js",
+      "PackagePath": "staticwebassets\\music2\\js\\jquery.slicknav.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\js\\main.js",
+      "PackagePath": "staticwebassets\\music2\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\music2\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\main.html",
+      "PackagePath": "staticwebassets\\music2\\main.html"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\music-files\\1.mp3",
+      "PackagePath": "staticwebassets\\music2\\music-files\\1.mp3"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\music-files\\2.mp3",
+      "PackagePath": "staticwebassets\\music2\\music-files\\2.mp3"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\music-files\\3.mp3",
+      "PackagePath": "staticwebassets\\music2\\music-files\\3.mp3"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\music-files\\4.mp3",
+      "PackagePath": "staticwebassets\\music2\\music-files\\4.mp3"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\music-files\\5.mp3",
+      "PackagePath": "staticwebassets\\music2\\music-files\\5.mp3"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\music-files\\6.mp3",
+      "PackagePath": "staticwebassets\\music2\\music-files\\6.mp3"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\readme.txt",
+      "PackagePath": "staticwebassets\\music2\\readme.txt"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\sass\\_about.scss",
+      "PackagePath": "staticwebassets\\music2\\sass\\_about.scss"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\sass\\_base.scss",
+      "PackagePath": "staticwebassets\\music2\\sass\\_base.scss"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\sass\\_blog-details.scss",
+      "PackagePath": "staticwebassets\\music2\\sass\\_blog-details.scss"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\sass\\_blog-sidebar.scss",
+      "PackagePath": "staticwebassets\\music2\\sass\\_blog-sidebar.scss"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\sass\\_blog.scss",
+      "PackagePath": "staticwebassets\\music2\\sass\\_blog.scss"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\sass\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\music2\\sass\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\sass\\_contact.scss",
+      "PackagePath": "staticwebassets\\music2\\sass\\_contact.scss"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\sass\\_discography.scss",
+      "PackagePath": "staticwebassets\\music2\\sass\\_discography.scss"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\sass\\_feature.scss",
+      "PackagePath": "staticwebassets\\music2\\sass\\_feature.scss"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\sass\\_footer.scss",
+      "PackagePath": "staticwebassets\\music2\\sass\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\sass\\_header.scss",
+      "PackagePath": "staticwebassets\\music2\\sass\\_header.scss"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\sass\\_hero.scss",
+      "PackagePath": "staticwebassets\\music2\\sass\\_hero.scss"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\sass\\_home-page.scss",
+      "PackagePath": "staticwebassets\\music2\\sass\\_home-page.scss"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\sass\\_mixins.scss",
+      "PackagePath": "staticwebassets\\music2\\sass\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\sass\\_responsive.scss",
+      "PackagePath": "staticwebassets\\music2\\sass\\_responsive.scss"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\sass\\_services.scss",
+      "PackagePath": "staticwebassets\\music2\\sass\\_services.scss"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\sass\\_tours.scss",
+      "PackagePath": "staticwebassets\\music2\\sass\\_tours.scss"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\sass\\_variable.scss",
+      "PackagePath": "staticwebassets\\music2\\sass\\_variable.scss"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\sass\\_videos.scss",
+      "PackagePath": "staticwebassets\\music2\\sass\\_videos.scss"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\sass\\style.scss",
+      "PackagePath": "staticwebassets\\music2\\sass\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\tours.html",
+      "PackagePath": "staticwebassets\\music2\\tours.html"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music2\\videos.html",
+      "PackagePath": "staticwebassets\\music2\\videos.html"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music\\css\\main.css",
+      "PackagePath": "staticwebassets\\music\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music\\images\\Searchs_004.png",
+      "PackagePath": "staticwebassets\\music\\images\\Searchs_004.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music\\images\\classic.jpg",
+      "PackagePath": "staticwebassets\\music\\images\\classic.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music\\images\\retro.jpg",
+      "PackagePath": "staticwebassets\\music\\images\\retro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music\\images\\retro2.jpeg",
+      "PackagePath": "staticwebassets\\music\\images\\retro2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music\\images\\retro3.jpg",
+      "PackagePath": "staticwebassets\\music\\images\\retro3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music\\index.html",
+      "PackagePath": "staticwebassets\\music\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music\\js\\extention\\choices.js",
+      "PackagePath": "staticwebassets\\music\\js\\extention\\choices.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music\\js\\extention\\custom-materialize.js",
+      "PackagePath": "staticwebassets\\music\\js\\extention\\custom-materialize.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music\\js\\extention\\flatpickr.js",
+      "PackagePath": "staticwebassets\\music\\js\\extention\\flatpickr.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music\\js\\main.js",
+      "PackagePath": "staticwebassets\\music\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Desktop\\MusicRecommendationAppML\\MusicRecommendationAppML\\wwwroot\\music\\readme.txt",
+      "PackagePath": "staticwebassets\\music\\readme.txt"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.MusicRecommendationAppML.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.MusicRecommendationAppML.props",
+      "PackagePath": "build\\MusicRecommendationAppML.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.MusicRecommendationAppML.props",
+      "PackagePath": "buildMultiTargeting\\MusicRecommendationAppML.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.MusicRecommendationAppML.props",
+      "PackagePath": "buildTransitive\\MusicRecommendationAppML.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

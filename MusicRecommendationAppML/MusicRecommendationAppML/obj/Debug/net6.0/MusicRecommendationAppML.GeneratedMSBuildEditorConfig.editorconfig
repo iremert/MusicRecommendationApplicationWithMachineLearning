@@ -1,0 +1,63 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MusicRecommendationAppML
+build_property.RootNamespace = MusicRecommendationAppML
+build_property.ProjectDir = C:\Users\lenovo\Desktop\MusicRecommendationAppML\MusicRecommendationAppML\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\lenovo\Desktop\MusicRecommendationAppML\MusicRecommendationAppML
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/lenovo/Desktop/MusicRecommendationAppML/MusicRecommendationAppML/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo/Desktop/MusicRecommendationAppML/MusicRecommendationAppML/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo/Desktop/MusicRecommendationAppML/MusicRecommendationAppML/Views/Music/Home.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXVzaWNcSG9tZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo/Desktop/MusicRecommendationAppML/MusicRecommendationAppML/Views/Music/Recommendation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXVzaWNcUmVjb21tZW5kYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo/Desktop/MusicRecommendationAppML/MusicRecommendationAppML/Views/Music/Search.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXVzaWNcU2VhcmNoLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo/Desktop/MusicRecommendationAppML/MusicRecommendationAppML/Views/Music/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTXVzaWNcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo/Desktop/MusicRecommendationAppML/MusicRecommendationAppML/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo/Desktop/MusicRecommendationAppML/MusicRecommendationAppML/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo/Desktop/MusicRecommendationAppML/MusicRecommendationAppML/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo/Desktop/MusicRecommendationAppML/MusicRecommendationAppML/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo/Desktop/MusicRecommendationAppML/MusicRecommendationAppML/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-lrw1ecg4jp
