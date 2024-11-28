@@ -1,6 +1,9 @@
 # MusicRecommendationApplicationWithMachineLearning
  This application recommends 5 songs similar to a given song title by analyzing the lyrics. It uses natural language processing (NLP) techniques to compare the lyrics of the input song with others and suggest tracks with similar themes or styles.
 
+ -Flask kullandım , kodları ayrı koymadım
+ -Machine Learning kısmını jupyter üzerinden yazdım, kodları ayrı koymadım
+
 
 ## anasayfa
 ![image](https://github.com/user-attachments/assets/f1d72fb1-35f0-4f00-8fde-f44cc0ddcb0c)
